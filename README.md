@@ -1,1 +1,2 @@
-# new-octo-train
+My interest in GitHub is deeply intertwined with my passion for data science and machine learning. I see GitHub as an invaluable tool that empowers individuals and teams to innovate, collaborate, and contribute to the ever-expanding landscape of data-driven technologies. The wealth of resources, the open-source spirit, and the collaborative ethos of GitHub make it an essential platform for anyone eager to explore and excel in these fascinating domains.
+There are some projects that I have worked on like titanic disaster,iris classification,creditfraud detection,employee attrition. colab notebooks to projects are available.
